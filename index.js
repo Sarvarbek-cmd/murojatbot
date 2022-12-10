@@ -9,3 +9,4 @@ bot.inlineKeyboard(GamepadButton)
 bot.start();
 let ahdb = salom;
 let gabd = undefined;
+const dfwe =1;
