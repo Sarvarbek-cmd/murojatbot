@@ -7,5 +7,5 @@ const chatIds = ['https://t.me/SarvarDev0312','https://t.me/QodirovDev','https:/
 bot.on('text', (msg) => msg.reply.text('iltimos shu lichga yozing' + chatIds));
 bot.inlineKeyboard(GamepadButton)
 bot.start();
-
-bot.start()
+let ahdb = salom;
+let gabd = undefined;
